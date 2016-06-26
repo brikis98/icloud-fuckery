@@ -37,7 +37,7 @@ After that, there are only two ways to download those photos, and both have seve
 1. `node download-photos-after-date.js`.
 
 Note that the URLs in `all-photos.json` use some sort of auth token system that expires after 30 minutes or an hour,
-so if you wait to long between running `list-all-photos.js` and `download-photos-after-date.js`, the downloads URLs
+so if you wait too long between running `list-all-photos.js` and `download-photos-after-date.js`, the downloads URLs
 may no longer work and the latter script will exit with an error.
 
 ## License
