@@ -8,8 +8,8 @@ all!) from iCloud:
 * `download-photos-after-date.js`: Downloads all the photos in `all-photos.json` that were created after the date
   specified in `DOWNLOAD_PHOTOS_AFTER_DATE`. Launches one process per CPU core so the downloads can happen in parallel.
 
-**Note**: This is a very hacky script. It shouldn't have to exist, but iCloud is crap, and I used a spare afternoon to
-cobble this stuff together so I could download my own photos. Do not expect much in terms of maintenance, tests, or
+**Note**: These are very hacky scripts. They shouldn't have to exist, but iCloud is crap, and I used a spare afternoon
+to cobble this stuff together so I could download my own photos. Do not expect much in terms of maintenance, tests, or
 code quality.
 
 ## Motivation
