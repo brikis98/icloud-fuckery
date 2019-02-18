@@ -1,5 +1,7 @@
 # iCloud Fuckery
 
+**UPDATE: I no longer use these scripts and do not have time to maintain them. This repo is now considered archived and unmaintained.**
+
 This repo contains a couple hacky node.js scripts I use whenever I need to download a large number of my photos (but not
 all!) from iCloud:
 
